@@ -1,0 +1,17 @@
+.form-container {
+   margin:30px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+}
+.submit {
+    margin: 10px;
+    width: 100px;
+    background-color: blue;
+    color:white;
+}
